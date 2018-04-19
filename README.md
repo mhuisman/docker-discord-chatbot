@@ -1,2 +1,2 @@
-# docker-discord-spambot
-A Dockerfile that launches spambot and Discord client
+# docker-discord-chatbot
+A Dockerfile that launches chatbot and Discord client
